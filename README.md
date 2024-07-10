@@ -35,16 +35,17 @@ Computer_Graphics project using OpenGL
 
 *Рисунок 1 – стандартное положение модели в формате obj*
 
-![Рисунок 2 – движение модели в формате obj](https://github.com/gr1shan1a/VOR_courseWork/blob/main/images/image.png)
+
+![Рисунок 2 – движение модели в формате obj](https://github.com/gr1shan1a/VOR_courseWork/blob/main/images/image%20copy.png)
 
 *Рисунок 2 – движение модели в формате obj*
 
 
-![Рисунок 3 – поворот модели в формате obj](https://github.com/gr1shan1a/VOR_courseWork/blob/main/images/image.png)
+![Рисунок 3 – поворот модели в формате obj](https://github.com/gr1shan1a/VOR_courseWork/blob/main/images/image%20copy%202.png)
 
 *Рисунок 3 – поворот модели в формате obj*
 
-![Рисунок 4 – масштабирование и движение модели в формате obj](https://github.com/gr1shan1a/VOR_courseWork/blob/main/images/image.png)
+![Рисунок 4 – масштабирование и движение модели в формате obj](https://github.com/gr1shan1a/VOR_courseWork/blob/main/images/image%20copy%203.png)
 
 *Рисунок 4 – масштабирование и движение модели в формате obj*
 
